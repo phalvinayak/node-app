@@ -1,0 +1,14 @@
+{
+  "name": "NodeApp",
+  "version": "1.0.0",
+  "description": "Sample application to have hands-on node environment.",
+  "main": "server.js",
+  "repository": "https://github.com/phalvinayak/node-app.git",
+  "author": "Vinayak Phal <vphal@sapient.com>",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "mongoose": "^4.7.1"
+  }
+}
